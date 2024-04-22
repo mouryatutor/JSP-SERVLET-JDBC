@@ -6,6 +6,19 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Home</title>
+  
+  <script src="../resources/package/dist/antd.min.js"></script>
+  <script src="../resources/package/dist/antd-with-locales.min.js"></script>
+  <script src="../resources/package/dist/antd.compact.min.css"></script>
+  <script src="../resources/package/dist/antd.dark.min.css"></script>
+  <script src="../resources/package/dist/antd.min.css"></script>
+  <script src="../resources/package/dist/antd.variable.min.css"></script>
+  <script src="../resources/package/dist/compact-theme.min.js"></script>
+  <script src="../resources/package/dist/dark-theme.min.js"></script>
+  <script src="../resources/package/dist/default-theme.min.js"></script>
+  <script src="../resources/package/dist/theme.min.js"></script>
+  <script src="../resources/package/dist/variable-theme.min.js"></script>
+
 </head>
 <body>
 	<h1>Hello World!</h1>
