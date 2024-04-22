@@ -7,10 +7,11 @@
 	<meta charset="UTF-8">
 	<title>Home</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <script src="/path/to/js/MSelectDBox.js"></script>
+    <script src="src/main/resources/dist/m-select-d-box.min.js"></script>
+    <script src="src/main/resources/dist/m-select-d-box.js"></script>
 </head>
 <body>
-	<h1>Hello World!</h1>
+	<h1>Hello World! Jquery</h1>
 	<c:if test="${not empty param.name}">
 		<p>Name: ${param.name}</p>
 	</c:if>
